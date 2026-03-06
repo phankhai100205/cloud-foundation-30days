@@ -1,6 +1,6 @@
-# Day 5
+# Day 7
 
-Basic networking on Linux: ip addr, netstat, curl, dig, ssh.
+Write your first Bash script (.sh) to automatically create 10 folders and 10 users with just one command.
 
 ## Topics covered
 - Topic 1
