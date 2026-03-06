@@ -1,6 +1,6 @@
-# Day 5
+# Day 6
 
-Basic networking on Linux: ip addr, netstat, curl, dig, ssh.
+Install the Nginx web server on Ubuntu. Create an index.html file and configure it to be accessible from a web browser.
 
 ## Topics covered
 - Topic 1
