@@ -10,7 +10,7 @@ Understand the Linux file system structure and basic navigation commands.
 
 ## Exercises
 ```bash
-###. Basic Exercises (3):
+1. Basic Exercises (3):
 
 (1) Use the command to print your current directory.
 
@@ -18,7 +18,7 @@ Understand the Linux file system structure and basic navigation commands.
 
 (3) Move back to the Home directory ~ and create two empty files: config.txt and log.txt.
 
-###. Intermediate Exercises (3):
+2. Intermediate Exercises (3):
 
 (4) Create a nested directory structure using a single command: cloud-sec/labs/day1.
 
@@ -26,7 +26,7 @@ Understand the Linux file system structure and basic navigation commands.
 
 (6) Rename the config.txt file in the labs directory to app_config.yml.
 
-###. Advanced Challenge (2):
+3. Advanced Challenge (2):
 
 (7) Move the entire cloud-sec directory to the /tmp directory (Note: be careful when using the move directory command).
 
