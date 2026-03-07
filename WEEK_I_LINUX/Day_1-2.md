@@ -1,12 +1,4 @@
-# Linux File System & Basic Commands
-
-## Objective
-Understand the Linux file system structure and basic navigation commands.
-
-## Concepts Learned
-- Linux file system hierarchy
-- Absolute path vs relative path
-- Common directories: /home, /etc, /var, /usr
+# The Linux file system structure. Commands: cd, ls, mkdir, cp, mv, rm.
 
 ## Exercises
 ```bash
