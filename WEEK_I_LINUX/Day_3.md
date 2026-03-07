@@ -1,8 +1,6 @@
-# DAY 3
+#User and Permission Management: chmod, chown, sudo, rwx.
 
-User and Permission Management: chmod, chown, sudo, rwx.
-
-## Topics covered
+## Exercies
 - Topic 1
 - Topic 2
 - Topic 3
